@@ -6,6 +6,8 @@ A simple, responsive Tic Tac Toe game built using HTML, CSS, and JavaScript.
 
 This project implements a classic Tic Tac Toe game where two players take turns marking cells in a 3×3 grid with `O` and `X`. The game checks for a winner after every move and allows players to reset or start a new game.
 
+## Live Demo: https://khushitiwari26.github.io/Tic-Tac-Toe/
+
 ## 📁 Files Included
 
 - `index.html` – Structure of the web app.
